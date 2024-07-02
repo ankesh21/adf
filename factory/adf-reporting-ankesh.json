@@ -1,0 +1,9 @@
+{
+	"name": "adf-reporting-ankesh",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "712891fb-1ed2-48ca-adaf-62939e63f829",
+		"tenantId": "85aaeb9c-852c-46ed-b1cb-7b674541afb7"
+	}
+}
